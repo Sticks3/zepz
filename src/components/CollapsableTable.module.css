@@ -1,0 +1,4 @@
+.disabledRow {
+    color: #cccccc;
+    pointer-events: none;
+}
